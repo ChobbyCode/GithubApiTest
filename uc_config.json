@@ -5,6 +5,12 @@
                 "FileName": "README.md",
                 "From": "*/README.md",
                 "To": "../"
+            },
+
+            {
+                "FileName": "Another File.txt",
+                "From": "*/Another File.txt",
+                "To": "../Box/"
             }
         ]
     }
