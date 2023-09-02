@@ -1,10 +1,10 @@
 {
     "ExtractInfo": {
-        "StartLoc": [
-          
-        ],
-        "EndLoc": [
-          
+        "Data": [
+            {
+                "From": "",
+                "To": ""
+            }
         ]
     }
 }
