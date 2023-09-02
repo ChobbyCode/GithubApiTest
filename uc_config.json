@@ -2,7 +2,7 @@
     "ExtractInfo": {
         "Data": [
             {
-                "From": "*/README.md",
+                "From": "../",
                 "To": "Cheese2"
             }
         ]
