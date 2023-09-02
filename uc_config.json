@@ -2,6 +2,7 @@
     "ExtractInfo": {
         "Data": [
             {
+                "FileName": "README.md",
                 "From": "*/README.md",
                 "To": "../"
             }
