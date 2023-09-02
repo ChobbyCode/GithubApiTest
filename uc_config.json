@@ -4,11 +4,6 @@
             {
                 "From": "*/README.md",
                 "To": "Cheese2"
-            },
-
-            {
-                "From": "Cheese3",
-                "To": "Cheese4"
             }
         ]
     }
