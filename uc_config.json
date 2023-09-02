@@ -6,27 +6,7 @@
                 "From": "*/README.md",
                 "To": "../"
             },
-            {
-                "FileName": "READM2E.md",
-                "From": "*/README.md",
-                "To": "../"
-            },
-            {
-                "FileName": "REA3DME.md",
-                "From": "*/README.md",
-                "To": "../"
-            },
-            {
-                "FileName": "REA123DME.md",
-                "From": "*/README.md",
-                "To": "../"
-            },
-
-            {
-                "FileName": "REA42114DME.md",
-                "From": "*/README.md",
-                "To": "../"
-            },
+            
 
             {
                 "FileName": "Another File.txt",
