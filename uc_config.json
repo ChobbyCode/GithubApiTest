@@ -17,9 +17,6 @@
         "Delete": [
             {
                 "Location": "../_config.json"
-            },
-            {
-                "Location": "*/_config.json"
             }
         ]
     }
