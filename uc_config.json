@@ -13,6 +13,14 @@
                 "From": "*/Another File.txt",
                 "To": "../Box/"
             }
+        ],
+        "Delete": [
+            {
+                "Location": "Bob Location"
+            },
+            {
+                "Location": "Cheeese Location"
+            }
         ]
     }
 }
