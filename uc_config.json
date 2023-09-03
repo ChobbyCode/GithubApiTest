@@ -16,7 +16,7 @@
         ],
         "Delete": [
             {
-                "Location": "Bob Location"
+                "Location": "../_config.json"
             },
             {
                 "Location": "Cheeese Location"
